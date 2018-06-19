@@ -1,0 +1,84 @@
+body{
+	background-color: beige;
+}
+h1{
+	font-family: 'Eater', cursive;
+	font-size: 50px;
+	text-align: center;
+	color: white;
+}
+h2{
+	font: verdana;
+	font-size: 20px;
+	text-align: center;
+}
+.wrap {
+	display:flex;
+	align-items:center;
+}
+img{
+	width: 100%;
+}
+.box1{
+	display: inline-block;
+}
+.center{
+	text-align: center;
+}
+.black{
+	background-color: coral;
+}
+
+.turqu{
+	background-color: turquoise;
+}
+
+.green{
+	background-color: green;
+}
+.sbob{
+	background-color: white;
+	padding: 6%;	
+}
+
+.sbeb{
+	background-color: turquoise;
+	padding: 6%;	
+}
+
+.sbub{
+	background-color: turquoise;
+	color: navy;
+	font-size: 60px
+}
+
+.rotate180 {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.background-img{
+	background: url(../img/image2.jpg) no-repeat center center fixed;
+	background-size:100% 100%;
+	height: 100vh;
+}
+
+.sbib{
+	font:verdana;
+	color:black;
+}
+
+.sbab{
+	background-color: turquoise;
+	color: navy;
+	opacity: 0.3;
+	font-size: 60px
+}
+
+#113{
+	font:times;
+	color:green;
+}
